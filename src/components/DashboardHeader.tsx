@@ -19,7 +19,7 @@ export default function DashboardHeader({ source, updatedAt, loading }: Props) {
       </header>
       <div className="hero">
         <div className="hero-copy">
-          <div className="eyebrow"><span className="eyebrow-line" /> PHILIPPINES WEATHER NETWORK</div>
+          <div className="eyebrow"><span className="eyebrow-line" /> PHILIPPINES WEATHER NETWORK v1.0</div>
           <h1>Weather at a glance<span>.</span></h1>
           <p>Track current conditions and recent trends across five Philippine locations.</p>
           <div className="hero-meta"><span><MapPin size={15} /> 5 locations monitored</span><span className="meta-divider" /><span><Activity size={15} /> Updated on page load</span></div>
