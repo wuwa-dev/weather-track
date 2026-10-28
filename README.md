@@ -1,4 +1,4 @@
-# WeatherTrack Lite
+# WeatherTrack Lite -v1
 
 A responsive weather monitoring dashboard for five Philippine locations. It shows current conditions and 24 hours of temperature and humidity trends. This is a demonstration project for GitHub and Vercel production and preview deployments.
 
